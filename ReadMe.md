@@ -3,6 +3,11 @@
 This repository contains a Power BI dashboard that performs an in-depth analysis of car sales data. The goal of the project is to uncover trends, identify key metrics, and provide actionable business insights to help stakeholders make data-driven decisions.
 
 ---
+## 📊 Dashboard Link
+
+Power BI dashboard link: [Car Sales Analysis Dashboard](https://app.powerbi.com/links/3txJ4bAipi?ctid=5532c884-1dee-4813-b3ce-4ee75ee7485e&pbi_source=linkShare)
+
+---
 
 ## 📊 Project Overview
 
